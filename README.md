@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 # asdf-calicoctl [![CI](https://github.com/FairwindsOps/asdf-calicoctl/actions/workflows/workflow.yml/badge.svg?branch=main)](https://github.com/FairwindsOps/asdf-calicoctl/actions/workflows/workflow.yml) 
 
 [calicoctl](https://github.com/projectcalico/calico) plugin for the [asdf version manager](https://asdf-vm.com).
