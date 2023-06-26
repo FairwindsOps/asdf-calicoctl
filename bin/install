@@ -30,8 +30,8 @@ install_calicoctl() {
 	rm -f $binary_path 2>/dev/null || true
 
 	echo "Copying binary"
+	chmod +x ${download_path}
 	cp ${download_path} ${binary_path}
-	chmod +x ${binary_path}
 }
 
 get_filename() {
